@@ -28,3 +28,10 @@ The process of using udf function:
 4. Copy the `.jar` file to `HDFS`
 
 5. Load the jarfile as a function, then you can use the function in `HiveQL`
+
+
+
+-----
+
+**TODO:**
+- Add more use cases [x]
